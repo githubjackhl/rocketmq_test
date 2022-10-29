@@ -49,6 +49,7 @@ public class ClusteringConsumer {
 
 
         // 开启消费者消费
+        // 开启消费者消费
         consumer.start();
         System.out.println("启动消费者");
     }
